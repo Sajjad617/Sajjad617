@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sajjad Hossain
   
   </> A passionate Competitve Programmer
-- 📚 I’m currently learning Asp.net Framework
-- 💬 Ask me about C, C++, Python, data structure and algorithm
+- 📚 I’m currently (Working + learning) Asp.net Core
+- 💬 Ask me about C, C++, Python, data structure and algorithm, Angular, Asp.net Core
 - 📩 How to reach me md.sajjad01733@gmail.com
 -   Thank You 😊❣️
 <!---
